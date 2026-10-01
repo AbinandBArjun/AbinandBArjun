@@ -140,6 +140,43 @@
 
 <br />
 
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Featured+Projects" alt="Featured Projects" /></h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong style="color: #00E5FF;">🚀 Project Coming Soon</strong><br />
+      <small>AI-powered solution</small><br />
+      <a href="https://github.com/AbinandBArjun"><img src="https://img.shields.io/badge/View-Repository-39FF14?style=flat-square" /></a>
+    </td>
+    <td width="50%" align="center">
+      <strong style="color: #00E5FF;">💡 Project Coming Soon</strong><br />
+      <small>Full stack application</small><br />
+      <a href="https://github.com/AbinandBArjun"><img src="https://img.shields.io/badge/View-Repository-39FF14?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong style="color: #00E5FF;">🔧 Project Coming Soon</strong><br />
+      <small>Backend service</small><br />
+      <a href="https://github.com/AbinandBArjun"><img src="https://img.shields.io/badge/View-Repository-39FF14?style=flat-square" /></a>
+    </td>
+    <td width="50%" align="center">
+      <strong style="color: #00E5FF;">⚡ Project Coming Soon</strong><br />
+      <small>Innovative tool</small><br />
+      <a href="https://github.com/AbinandBArjun"><img src="https://img.shields.io/badge/View-Repository-39FF14?style=flat-square" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Connect" alt="Connect" /></h2>
 
 <div align="center">
