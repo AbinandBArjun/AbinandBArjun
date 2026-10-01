@@ -49,28 +49,6 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Contribution+Heatmaps" alt="Contribution Heatmaps" /></h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
-
-### 🌊 Animated Wave Gradient
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/wave-heatmap.svg" width="100%" alt="Wave Heatmap" />
-
-### 📅 Calendar Heatmap with Glow
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/calendar-heatmap.svg" width="100%" alt="Calendar Heatmap" />
-
-### 📊 Contribution Statistics
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/contribution-counters.svg" width="100%" alt="Contribution Counters" />
-
-</div>
-
-<br />
-
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Languages" alt="Languages" /></h2>
 
 <div align="center">
