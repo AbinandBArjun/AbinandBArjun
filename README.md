@@ -147,10 +147,9 @@
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=FF6B6B" alt="Portfolio" /></a>
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/abinand-b-arjun"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:abinandbarjun7@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://x.com/Abinandbarjun"><img src="https://img.shields.io/badge/-X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
   <a href="https://github.com/AbinandBArjun"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
