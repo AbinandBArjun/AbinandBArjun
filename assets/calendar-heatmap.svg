@@ -1,0 +1,114 @@
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cellGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 2px #00E5FF); }
+        50% { filter: drop-shadow(0 0 8px #39FF14); }
+      }
+      @keyframes softGlow {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      .glow-cell {
+        animation: glow 2s ease-in-out infinite;
+      }
+      .intensity-1 { fill: #0D2D2D; }
+      .intensity-2 { fill: #00664D; }
+      .intensity-3 { fill: #00A366; }
+      .intensity-4 { fill: #00E5FF; }
+      .intensity-5 { fill: #39FF14; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="200" fill="#0D1117"/>
+  
+  <!-- Calendar grid title -->
+  <text x="20" y="30" font-family="Fira Code" font-size="16" fill="#00E5FF" font-weight="bold">Contribution Calendar Heatmap</text>
+  
+  <!-- Calendar grid cells (52 weeks x 7 days) -->
+  <!-- Week 1 -->
+  <rect class="glow-cell intensity-1" x="20" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-2" x="40" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-3" x="60" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="80" y="50" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-5" x="100" y="50" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="120" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-1" x="140" y="50" width="16" height="16" rx="2"/>
+  
+  <!-- Week 2 -->
+  <rect class="glow-cell intensity-2" x="20" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="40" y="72" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-5" x="60" y="72" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="80" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-2" x="100" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="120" y="72" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-1" x="140" y="72" width="16" height="16" rx="2"/>
+  
+  <!-- Week 3 -->
+  <rect class="glow-cell intensity-3" x="20" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="40" y="94" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-4" x="60" y="94" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-2" x="80" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="100" y="94" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="120" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-2" x="140" y="94" width="16" height="16" rx="2"/>
+  
+  <!-- Week 4 -->
+  <rect class="glow-cell intensity-4" x="20" y="116" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-3" x="40" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-2" x="60" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="80" y="116" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-4" x="100" y="116" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-1" x="120" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-3" x="140" y="116" width="16" height="16" rx="2"/>
+  
+  <!-- Repeat pattern for more weeks -->
+  <rect class="glow-cell intensity-2" x="170" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="190" y="50" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-5" x="210" y="50" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="230" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-1" x="250" y="50" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="270" y="50" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-2" x="290" y="50" width="16" height="16" rx="2"/>
+  
+  <rect class="glow-cell intensity-5" x="170" y="72" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="190" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-2" x="210" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="230" y="72" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-5" x="250" y="72" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-1" x="270" y="72" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-3" x="290" y="72" width="16" height="16" rx="2"/>
+  
+  <rect class="glow-cell intensity-4" x="170" y="94" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-2" x="190" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="210" y="94" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-3" x="230" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-1" x="250" y="94" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-4" x="270" y="94" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-2" x="290" y="94" width="16" height="16" rx="2"/>
+  
+  <rect class="glow-cell intensity-3" x="170" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="190" y="116" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  <rect class="glow-cell intensity-4" x="210" y="116" width="16" height="16" rx="2" style="animation-delay: 0.2s;"/>
+  <rect class="glow-cell intensity-2" x="230" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-3" x="250" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-1" x="270" y="116" width="16" height="16" rx="2"/>
+  <rect class="glow-cell intensity-5" x="290" y="116" width="16" height="16" rx="2" style="animation-delay: 0.4s;"/>
+  
+  <!-- Legend -->
+  <text x="20" y="160" font-family="Fira Code" font-size="12" fill="#39FF14">Less</text>
+  <rect class="intensity-1" x="60" y="152" width="10" height="10" rx="1"/>
+  <rect class="intensity-2" x="75" y="152" width="10" height="10" rx="1"/>
+  <rect class="intensity-3" x="90" y="152" width="10" height="10" rx="1"/>
+  <rect class="intensity-4" x="105" y="152" width="10" height="10" rx="1"/>
+  <rect class="intensity-5" x="120" y="152" width="10" height="10" rx="1"/>
+  <text x="135" y="160" font-family="Fira Code" font-size="12" fill="#39FF14">More</text>
+</svg>
