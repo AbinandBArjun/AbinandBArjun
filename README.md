@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=LLM+%26+Generative+AI+Builder;Full+Stack+Engineer;AI+Systems+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=LLM+%26+Generative+AI+Builder;AI+Engineer+%7C+Full+Stack+Developer" alt="Typing animation" />
 
 <p style="font-size: 18px; color: #00E5FF; margin: 20px 0;">
   I build intelligent systems, scalable products, and practical AI-powered experiences.<br />
@@ -17,26 +17,26 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=📊+GitHub+Stats" alt="Stats" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=GitHub+Activity" alt="GitHub Activity" /></h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
 <p>
-  <a href="https://github.com/AbinandBArjun?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.followers&label=Followers&style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Followers" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.following&label=Following&style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Following" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.public_repos&label=Repos&style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Repos" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.followers&label=Followers&color=00E5FF&style=for-the-badge" alt="Followers" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.following&label=Following&color=39FF14&style=for-the-badge" alt="Following" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.public_repos&label=Repositories&color=FFB000&style=for-the-badge" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=AbinandBArjun&label=Profile+Views&style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Views" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=AbinandBArjun&hide_border=true&background=0D1117&stroke=30363D&ring=39FF14&fire=00E5FF&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&dates=FFFFFF&type=svg" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=AbinandBArjun&hide_border=true&background=0D1117&stroke=30363D&ring=39FF14&fire=00E5FF&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=📈+Contribution+Activity" alt="Activity" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Overview" alt="Overview" /></h2>
 
 <div align="center">
 
@@ -49,29 +49,7 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🔥+Heatmap" alt="Heatmap" /></h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>
-
-<br />
-
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🐍+Contribution+Snake" alt="Contribution Snake" /></h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>
-
-<br />
-
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🛠️+Tech+Stack" alt="Tech Stack" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Languages" alt="Languages" /></h2>
 
 <div align="center">
 
@@ -133,20 +111,7 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🔤+Languages" alt="Languages" /></h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by commits" />
-
-</div>
-
-<br />
-
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=💡+What+I+Do" alt="What I Do" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=What+I+Build" alt="What I Build" /></h2>
 
 <div align="center">
 
@@ -162,7 +127,7 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=📞+Let's+Connect" alt="Connect" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Connect" alt="Connect" /></h2>
 
 <div align="center">
 
