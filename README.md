@@ -49,9 +49,11 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🐍+Contribution+Heatmap" alt="Heatmap" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🔥+Heatmap" alt="Heatmap" /></h2>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
@@ -59,14 +61,11 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🔤+Languages" alt="Languages" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🐍+Contribution+Snake" alt="Contribution Snake" /></h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by commits" />
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -129,6 +128,19 @@
   <img src="https://img.shields.io/badge/-VS+Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
+
+</div>
+
+<br />
+
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=🔤+Languages" alt="Languages" /></h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbinandBArjun&theme=github_dark" width="420" alt="Languages by commits" />
 
 </div>
 
