@@ -53,9 +53,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
-
-<img src="https://github.com/AbinandBArjun/AbinandBArjun/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
