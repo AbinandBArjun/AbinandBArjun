@@ -1,0 +1,153 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Constellation contribution heatmap">
+  <defs>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="50%" stop-color="#101a2d"/>
+      <stop offset="100%" stop-color="#08101d"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg-star { animation: drift 10s linear infinite; opacity: 0.75; }
+      .twinkle { animation: twinkle 2.8s ease-in-out infinite; transform-origin: center; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .cell { animation: twinkle 2.8s ease-in-out infinite; }
+      .line { animation: shimmer 4s linear infinite; }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.4; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.12); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      @keyframes drift {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(6px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes shimmer {
+        0% { opacity: 0.2; }
+        50% { opacity: 0.9; }
+        100% { opacity: 0.2; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bgGlow)"/>
+
+  <!-- Cosmic starfield -->
+  <g opacity="0.75">
+    <circle class="bg-star" cx="80" cy="35" r="1.5" fill="#9fe7ff" />
+    <circle class="bg-star" cx="140" cy="90" r="1.1" fill="#9fe7ff" />
+    <circle class="bg-star" cx="250" cy="30" r="1.7" fill="#7ef5c7" />
+    <circle class="bg-star" cx="440" cy="70" r="1.3" fill="#9fe7ff" />
+    <circle class="bg-star" cx="520" cy="120" r="1.2" fill="#b8a7ff" />
+    <circle class="bg-star" cx="620" cy="45" r="1.8" fill="#7ef5c7" />
+    <circle class="bg-star" cx="760" cy="95" r="1.3" fill="#9fe7ff" />
+    <circle class="bg-star" cx="860" cy="40" r="1.6" fill="#7ef5c7" />
+    <circle class="bg-star" cx="980" cy="80" r="1.2" fill="#9fe7ff" />
+    <circle class="bg-star" cx="1080" cy="55" r="1.7" fill="#b8a7ff" />
+    <circle class="bg-star" cx="1150" cy="130" r="1.5" fill="#7ef5c7" />
+    <circle class="bg-star" cx="210" cy="175" r="1.3" fill="#9fe7ff" />
+    <circle class="bg-star" cx="430" cy="180" r="1.6" fill="#7ef5c7" />
+    <circle class="bg-star" cx="700" cy="170" r="1.4" fill="#b8a7ff" />
+    <circle class="bg-star" cx="910" cy="190" r="1.5" fill="#9fe7ff" />
+  </g>
+
+  <text x="50" y="32" fill="#b7fff0" font-size="18" font-family="Fira Code, monospace" font-weight="700">Contribution Constellation</text>
+
+  <!-- Grid area -->
+  <g transform="translate(50,48)">
+    <!-- faint grid background -->
+    <g opacity="0.18">
+      <rect x="0" y="0" width="1100" height="150" rx="12" fill="#0d1730" stroke="#1d2f4a"/>
+    </g>
+
+    <!-- Constellation lines -->
+    <g class="line" stroke="#5eead4" stroke-width="1.2" opacity="0.75" fill="none">
+      <path d="M 30 40 L 60 45 L 90 90 L 120 55 L 150 90 L 180 70" />
+      <path d="M 220 60 L 260 32 L 300 70 L 330 110 L 360 85" />
+      <path d="M 400 32 L 440 60 L 480 48 L 520 92 L 560 68" />
+      <path d="M 610 85 L 650 55 L 690 36 L 730 75 L 770 42 L 810 62" />
+      <path d="M 850 72 L 890 90 L 930 58 L 970 92 L 1010 48" />
+    </g>
+
+    <!-- Contribution cells -->
+    <g>
+      <!-- week 1 -->
+      <g>
+        <circle class="cell twinkle" cx="20" cy="35" r="6" fill="#0f172a" stroke="#4c8af5" stroke-width="1"/>
+        <circle class="cell twinkle" cx="50" cy="42" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="80" cy="80" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="110" cy="48" r="6" fill="#0f172a" stroke="#4c8af5" stroke-width="1"/>
+        <circle class="cell twinkle" cx="140" cy="80" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="170" cy="62" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+      </g>
+
+      <!-- week 2 -->
+      <g>
+        <circle class="cell twinkle" cx="220" cy="62" r="7" fill="#0f172a" stroke="#4c8af5" stroke-width="1"/>
+        <circle class="cell twinkle" cx="250" cy="22" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="280" cy="70" r="8" fill="#2dd4bf" stroke="#7af7d7" stroke-width="1.4"/>
+        <circle class="cell twinkle" cx="310" cy="110" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="340" cy="86" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+      </g>
+
+      <!-- week 3 -->
+      <g>
+        <circle class="cell twinkle" cx="400" cy="30" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="430" cy="60" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="460" cy="48" r="8" fill="#2dd4bf" stroke="#7af7d7" stroke-width="1.4"/>
+        <circle class="cell twinkle" cx="490" cy="70" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="520" cy="92" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="550" cy="70" r="7" fill="#0f172a" stroke="#4c8af5" stroke-width="1"/>
+      </g>
+
+      <!-- week 4 -->
+      <g>
+        <circle class="cell twinkle" cx="610" cy="82" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="640" cy="56" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="670" cy="34" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="700" cy="36" r="9" fill="#7c3aed" stroke="#c084fc" stroke-width="1.4"/>
+        <circle class="cell twinkle" cx="730" cy="76" r="8" fill="#2dd4bf" stroke="#7af7d7" stroke-width="1.4"/>
+        <circle class="cell twinkle" cx="760" cy="46" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+      </g>
+
+      <!-- week 5 -->
+      <g>
+        <circle class="cell twinkle" cx="850" cy="72" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="880" cy="88" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="910" cy="60" r="8" fill="#7c3aed" stroke="#c084fc" stroke-width="1.4"/>
+        <circle class="cell twinkle" cx="940" cy="58" r="7" fill="#16c7c7" stroke="#6ee7f9" stroke-width="1"/>
+        <circle class="cell twinkle" cx="970" cy="90" r="8" fill="#22d3ee" stroke="#8ef0ff" stroke-width="1.2"/>
+        <circle class="cell twinkle" cx="1000" cy="44" r="8" fill="#2dd4bf" stroke="#7af7d7" stroke-width="1.4"/>
+      </g>
+
+      <!-- subtle inactive cells -->
+      <g opacity="0.35">
+        <circle cx="180" cy="48" r="4" fill="#1e293b" stroke="#334155"/>
+        <circle cx="370" cy="102" r="4" fill="#1e293b" stroke="#334155"/>
+        <circle cx="580" cy="94" r="4" fill="#1e293b" stroke="#334155"/>
+        <circle cx="810" cy="98" r="4" fill="#1e293b" stroke="#334155"/>
+        <circle cx="1040" cy="82" r="4" fill="#1e293b" stroke="#334155"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom legend -->
+  <g transform="translate(850,210)">
+    <text x="0" y="0" fill="#c4f9ff" font-size="12" font-family="Fira Code, monospace">Low</text>
+    <circle cx="48" cy="-5" r="5" fill="#0f172a" stroke="#4c8af5"/>
+    <circle cx="70" cy="-5" r="5" fill="#16c7c7" stroke="#6ee7f9"/>
+    <circle cx="92" cy="-5" r="6" fill="#22d3ee" stroke="#8ef0ff"/>
+    <circle cx="118" cy="-5" r="7" fill="#2dd4bf" stroke="#7af7d7"/>
+    <circle cx="146" cy="-5" r="8" fill="#7c3aed" stroke="#c084fc"/>
+    <text x="165" y="0" fill="#c4f9ff" font-size="12" font-family="Fira Code, monospace">High</text>
+  </g>
+</svg>
