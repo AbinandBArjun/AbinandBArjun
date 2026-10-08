@@ -24,9 +24,9 @@
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
 <p>
-  <a href="https://github.com/AbinandBArjun?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.followers&label=Followers&color=00E5FF&style=for-the-badge" alt="Followers" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=following"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.following&label=Following&color=39FF14&style=for-the-badge" alt="Following" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&query=%24.public_repos&label=Repositories&color=FFB000&style=for-the-badge" alt="Repositories" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=followers"><img src="https://img.shields.io/github/followers/AbinandBArjun?label=Followers&style=for-the-badge&logo=github&logoColor=00E5FF&color=00E5FF&labelColor=0D1117" alt="Followers" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=following"><img src="https://img.shields.io/badge/Following-8-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117" alt="Following" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-6-FFB000?style=for-the-badge&logo=github&logoColor=FFB000&labelColor=0D1117" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=AbinandBArjun&label=Profile+Views&style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Views" />
 </p>
 
@@ -42,8 +42,8 @@
 
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbinandBArjun&theme=github_dark" width="420" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbinandBArjun&theme=github_dark&utcOffset=5" width="420" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/3-stats.svg" width="420" alt="Stats" />
+<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="420" alt="Productive time" />
 
 </div>
 
