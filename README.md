@@ -50,8 +50,15 @@
 
 <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/assets/glow-line.svg" width="600" alt="Glow line" />
 
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/3-stats.svg" width="420" alt="Stats" />
-<img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="420" alt="Productive time" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbinandBArjun&show_icons=true&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&icon_color=00E5FF&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinandBArjun&layout=compact&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/3-stats.svg" width="420" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="420" alt="Productive time" />
+</p>
 
 </div>
 
