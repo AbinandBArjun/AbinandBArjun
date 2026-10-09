@@ -56,8 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/3-stats.svg" width="420" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="420" alt="Productive time" />
+  <img src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="500" alt="Productive time" />
 </p>
 
 </div>
