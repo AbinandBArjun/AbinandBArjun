@@ -32,6 +32,14 @@
 
 <img src="https://streak-stats.demolab.com/?user=AbinandBArjun&hide_border=true&background=0D1117&stroke=30363D&ring=39FF14&fire=00E5FF&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <br />
