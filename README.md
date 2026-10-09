@@ -34,10 +34,6 @@
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinandBArjun&theme=tokyo-night&bg_color=0D1117&color=39FF14&line=00E5FF&point=39FF14&area=true&hide_border=true" width="100%" alt="Activity Waveform Graph" />
-
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbinandBArjun/AbinandBArjun/output/github-contribution-grid-snake.svg" />
