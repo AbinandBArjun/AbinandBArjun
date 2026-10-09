@@ -25,12 +25,16 @@
 
 <p>
   <a href="https://github.com/AbinandBArjun?tab=followers"><img src="https://img.shields.io/github/followers/AbinandBArjun?label=Followers&style=for-the-badge&logo=github&logoColor=00E5FF&color=00E5FF&labelColor=0D1117" alt="Followers" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=following"><img src="https://img.shields.io/badge/Following-8-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117" alt="Following" /></a>
-  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-6-FFB000?style=for-the-badge&logo=github&logoColor=FFB000&labelColor=0D1117" alt="Repositories" /></a>
+  <a href="https://github.com/AbinandBArjun?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbinandBArjun&style=for-the-badge&logo=github&logoColor=39FF14&color=39FF14&labelColor=0D1117" alt="Repositories" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAbinandBArjun&style=for-the-badge&logo=apachespark&logoColor=FFB000&color=FFB000&labelColor=0D1117" alt="Stars" />
   <img src="https://komarev.com/ghpvc/?username=AbinandBArjun&label=Profile+Views&style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Views" />
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=AbinandBArjun&hide_border=true&background=0D1117&stroke=30363D&ring=39FF14&fire=00E5FF&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinandBArjun&theme=tokyo-night&bg_color=0D1117&color=39FF14&line=00E5FF&point=39FF14&area=true&hide_border=true" width="100%" alt="Activity Waveform Graph" />
 
 <br /><br />
 
@@ -63,7 +67,7 @@
 
 <br />
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Languages" alt="Languages" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=560&height=50&lines=Tech+Stack+%26+Tools" alt="Tech Stack & Tools" /></h2>
 
 <div align="center">
 
